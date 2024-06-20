@@ -43,7 +43,7 @@ This repository contains an analysis of the use and regulations of the Chicago P
 
 ## Materials
 - [Full Paper](docs/paper.md)
-- [Presentation Slides](docs/docs/Presentation for Download: Chicago’s Gang Database.pdf)
+- [Presentation Slides](docs/Presentation for Download: Chicago’s Gang Database.pdf)
 
 ## Conclusion
 This project raised awareness about the ethical implications of algorithmic decision-making in sensitive contexts and provided actionable recommendations for improvement.
