@@ -32,6 +32,14 @@ CPD has failed to create a website providing general information about the CEIS 
 
 The inquiry also found a lack of leadership, with key personnel leaving the project shortly after their appointment and no clear succession plan. This ambiguity and lack of accountability suggest that CPD is unwilling to address the significant flaws in the database.
 
+### Public and Legal Responses
+
+In 2018, several organizations, including Chicagoans for an End to the Gang Database, brought an ordinance to the city council to regulate the gang database. The ordinance cited the disproportionate listing of Black and Latino people and the adverse effects on employment, housing, and immigration status. However, the motion was voluntarily dismissed by the plaintiffs, who sought harm reduction through litigation. Since then, CPD has made minimal changes in response to criticisms.
+
+### Conclusion
+
+The status and use of the gang database are deeply flawed and require immediate reform. It is concerning that individuals' lives are jeopardized by an underdeveloped technology. The database's disproportionate impact on Black and Latino communities and the lack of due process for those listed highlight the need for comprehensive changes or the database's abandonment. Public education, community organizing, and participation in policy discussions are essential steps toward addressing these issues.
+
 ## Works Cited
 
 1. 2018 BIA Year End Summary - Chicago Police Department. [https://home.chicagopolice.org/wp-content/uploads/2019/08/2018-BIA-Year-End-Summary.pdf](https://home.chicagopolice.org/wp-content/uploads/2019/08/2018-BIA-Year-End-Summary.pdf).
@@ -57,10 +65,3 @@ The inquiry also found a lack of leadership, with key personnel leaving the proj
 21. Person. “CPD to Overhaul Gang-Related Database, Announces New 'Criminal Enterprise Information System'.” ABC7 Chicago, WLS-TV, 27 Feb. 2020, [https://abc7chicago.com/chicago-police-department-criminal-enterprise-information-system-cpd-gang-database-violence/5970975/](https://abc7chicago.com/chicago-police-department-criminal-enterprise-information-system-cpd-gang-database-violence/5970975/).
 22. Sabella, Jen. “Police Gang Database Is 'Riddled with Errors' and Has Ruined Lives, Aldermen Say - so Why Is CPD Still Using It?” Block Club Chicago, Block Club Chicago, 28 July 2021, [https://blockclubchicago.org/2021/07/28/police-gang-database-is-riddled-with-errors-and-has-ruined-lives-aldermen-say-so-why-is-it-cpd-still-using-it/](https://blockclubchicago.org/2021/07/28/police-gang-database-is-riddled-with-errors-and-has-ruined-lives-aldermen-say-so-why-is-it-cpd-still
 
-### Public and Legal Responses
-
-In 2018, several organizations, including Chicagoans for an End to the Gang Database, brought an ordinance to the city council to regulate the gang database. The ordinance cited the disproportionate listing of Black and Latino people and the adverse effects on employment, housing, and immigration status. However, the motion was voluntarily dismissed by the plaintiffs, who sought harm reduction through litigation. Since then, CPD has made minimal changes in response to criticisms.
-
-### Conclusion
-
-The status and use of the gang database are deeply flawed and require immediate reform. It is concerning that individuals' lives are jeopardized by an underdeveloped technology. The database's disproportionate impact on Black and Latino communities and the lack of due process for those listed highlight the need for comprehensive changes or the database's abandonment. Public education, community organizing, and participation in policy discussions are essential steps toward addressing these issues.
