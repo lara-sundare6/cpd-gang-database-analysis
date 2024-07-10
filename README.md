@@ -1,6 +1,7 @@
 # CPD Gang Database Analysis
 
 ## [Inspector General review from 2023](https://igchicago.org/wp-content/uploads/2023/11/Recent-Developments-on-CPDs-Use-of-Gang-Data.pdf)
+## [My Paper and Presentation](docs/)
 
 
 ## Overview
