@@ -1,6 +1,5 @@
-#  Lara Sundare
+# Chicago’s Gang Database
 ## 10/22/21
-## Chicago’s Gang Database
 
 ### Introduction
 
