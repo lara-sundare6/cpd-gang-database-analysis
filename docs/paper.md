@@ -1,4 +1,4 @@
-# Lucas Lefrancois (Before changing my name to Lara Sundare)
+#  Lara Sundare
 ## 10/22/21
 ## Chicago’s Gang Database
 
